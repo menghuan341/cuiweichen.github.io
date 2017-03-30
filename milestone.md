@@ -9,7 +9,7 @@ header-img: "img/zhihu.jpg"
 ###Path：
 
 
-- 加入XK DEVOPS
+- 加入XIKANG DEVOPS
 
 - 追寻更好的自己
 
