@@ -2,26 +2,26 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Mr.J|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://cuiweichen.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "崔维臣"
+  email: cuiweichen@qq.com
   bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
-twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
-facebook_username:
-zhihu_username: zhang-yi-sen-46
+douban_username: MR.J
+twitter_username: MR.J
+github_username: menghuan341
+weibo_username: 密斯特勾MRJ
+facebook_username: 崔维臣
+zhihu_username: MR.J
 
 # Build settings  
 # use Github Flavored Markdown !important  
