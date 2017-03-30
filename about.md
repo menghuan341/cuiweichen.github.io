@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 # 联系方式
 
 *   Email：cuiweichen@qq.com
-*   QQ/微信号：448220849/崔维臣
+*   QQ/微信号：448220849
 
 * * *
 
@@ -21,6 +21,6 @@ header-img: "img/green.jpg"
 *   本科/Liaoning University
 *   技术博客: <http://www.cuiweichen.com>
 *   Github: <https://github.com/menghuan341>
-*   目前就职于：NEUSoft
+*   目前就职于：NEUSOFT
 
 * * *
