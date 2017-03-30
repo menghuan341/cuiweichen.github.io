@@ -256,5 +256,5 @@ dog和cat都是一个web服务，现在我想将主机的某一个位置当做�
 重新启动一下docker-compose up -d，访问一下dog与cat服务：
  
 
-<img src="/assets/image/test.png" alt="替代文本" title="标题文本" width="200" height = "100" />
+<img src="/assets/image/compose.png" alt="Docker Compose" title="Docker Compose" width="200" height = "100" />
 
