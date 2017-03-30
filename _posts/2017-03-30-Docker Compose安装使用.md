@@ -9,7 +9,7 @@ description: Compose
 ---
 
 Docker Compose安装使用
-![TEST](/assets/image/test.png)
+![TEST](/assets/image/compose.png)
 
 1.	Compose概述
 Docker Compose是一个用来定义和运行复杂应用的Docker工具。使用Compose，你可以在一个文件中定义一个多容器应用，然后使用一条命令来启动你的应用，完成一切准备工作。
