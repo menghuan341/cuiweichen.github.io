@@ -1,14 +1,14 @@
 # Site settings
-title: 我爱沈阳
+title: iShenyang
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "ishenyang|Think Different"  
+description: "iShenyang|Think Different"  
 baseurl: ""
 url: "http://cuiweichen.github.io"  
 
 # About/contact
 owner: 
-  name: "我爱沈阳"
+  name: "MR.J"
   email: cuiweichen@qq.com
   bio: ""
 

@@ -13,7 +13,7 @@ header-img: "img/green.jpg"
 
 *   Email：cuiweichen@qq.com
 *   QQ/微信号：448220849
-*   技术博客: <http://www.ishenyang.club>
+*   网站: <http://www.ishenyang.club>
 *   Github: <https://github.com/menghuan341>
 
 * * *
